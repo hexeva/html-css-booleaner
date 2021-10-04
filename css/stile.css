@@ -12,15 +12,31 @@
 }
 
 .logo{
-    background-image: url("img/pattern.png");
+    background-image: url("../img/pattern.png");
+    background-color: #4ea0ff;
+    background-repeat: repeat;
 }
 
 .container{
     width: 95%;
     margin: auto;
-
 }
+
+/* MAIN */
 
 h1{
     font-size: 50px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.author{
+    font-size: 25px;
+    color:#8f8f8f;
+    border-bottom: 15px;
+}
+
+.author span{
+    font-size: 25px;
+    color: #37b1e7;
 }
