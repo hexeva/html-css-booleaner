@@ -98,11 +98,13 @@ h2{
 
 .img-block{
     display: block;
-    margin-bottom: 25px;
+    width: 20%;
+    margin-bottom: 20px;
 }
 
-
-
+.img-under{
+    width: 20%;
+}
 
 /*END FOOTER*/
 
