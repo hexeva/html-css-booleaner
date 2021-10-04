@@ -63,7 +63,12 @@ h1{
     margin-bottom: 25px;
 }
 
-/*list*/
+
+/*table*/
+
+table{
+    margin-bottom: 25px;
+}
 
 thead{
     width: 100%;
@@ -80,4 +85,18 @@ thead{
 .tr-blu{
     background-color:#b1e5f2;
 }
+/*end Table*/
+
+/*END MAIN*/
+
+/*FOOTER*/
+h2{
+    font-size: 16px;
+    color: #969696;
+}
+
+/*END FOOTER*/
+
+
+
 
