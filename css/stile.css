@@ -45,6 +45,15 @@ h1{
    margin: auto;
 }
 
+.image-description{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-size: smaller;
+}
+
+.p-style{
+    background-color: yellow;
+}
 
 
 
