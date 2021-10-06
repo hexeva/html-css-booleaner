@@ -98,15 +98,34 @@ h2{
     margin-bottom: 10px;
 }
 
-.img-block{
-    display: block;
-    width: 20%;
-    margin-bottom: 20px;
+.back-img{
+    
+    width: 200px;
+    height: 200px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
 }
 
-.img-under{
-    width: 20%;
+.back-img h2{
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+    
 }
+
+#computer{
+    background-image: url(../img/monitor.jpg);
+}
+
+#graph{
+    background-image: url(../img/graph.jpg);
+}
+
+
+   
+
+
 
 /*END FOOTER*/
 
